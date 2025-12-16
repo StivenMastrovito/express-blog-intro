@@ -36,4 +36,4 @@ const calciatori = [
     },
 ]
 
-export { calciatori }
+export {calciatori} 
